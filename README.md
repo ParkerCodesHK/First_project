@@ -112,3 +112,4 @@ if __name__ == "__main__":
         run_tracker()
         print(f"Checked stocks at {datetime.now()}")
         time.sleep(INTERVAL_MINUTES * 60)
+python <script_name>.py
